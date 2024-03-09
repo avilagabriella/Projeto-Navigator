@@ -25,5 +25,5 @@
 - 5 Execute o app via web
   ```
   yarn run web
-```
+  ```
   
